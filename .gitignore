@@ -1,0 +1,3 @@
+.env
+venv/
+CHATBOT_PRODUCT_RECOMMENDER.egg-info/
